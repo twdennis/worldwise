@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2020-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "9b59",
+      "cityName": "Robledo de Chavela",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-20T14:33:38.604Z",
+      "notes": "",
+      "position": {
+        "lat": "40.44276659332215",
+        "lng": "-4.273681640625001"
+      }
+    },
+    {
+      "id": "2fff",
+      "cityName": "Salisbury",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-03-20T14:35:06.833Z",
+      "notes": "",
+      "position": {
+        "lat": "51.06470168927767",
+        "lng": "-1.7866516113281252"
+      }
+    },
+    {
+      "id": "57eb",
+      "cityName": "Britford",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-03-28T23:44:05.834Z",
+      "notes": "",
+      "position": {
+        "lat": "51.0439842320174",
+        "lng": "-1.7921447753906252"
+      }
+    }
+  ]
+}
